@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Loveyou"
+git remote add origin https://github.com/AstroVibess7/LoveYou.git
+git push -u origin master
