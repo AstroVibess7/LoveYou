@@ -8,7 +8,7 @@ var yesButton = document.getElementById("yesButton");
 var no = document.getElementById("no");
 var valentineImage = document.getElementById("valentineImage");
 
-var noTexts = ["𝒮𝒾𝒸𝓊𝓇𝒶?", "𝒩𝑜 𝓈𝓂𝑒𝓉𝓉𝒾𝓁𝒶", "𝒟𝒶𝒾𝒾𝒾", "𝒮𝓂𝑒𝓉𝓉𝒾𝓁𝒶", "𝒜𝓁𝓂𝑒𝓃𝑜 𝓅𝓇𝑜𝓋𝒶𝒸𝒾", "𝒩𝑜𝓃 𝓅𝓊𝑜𝒾"];
+var noTexts = ["𝒮𝒾𝒸𝓊𝓇𝒶?", "𝒩𝑜 𝓈𝓂𝑒𝓉𝓉𝒾𝓁𝒶", "𝒟𝒶𝒾𝒾𝒾", "𝒮𝓂𝑒𝓉𝓉𝒾𝓁𝒶", "𝒫𝓇𝑜𝓋𝒶𝒸𝒾", "𝒩𝑜𝓃 𝓅𝓊𝑜𝒾"];
 var imageSources = [
     "https://media.tenor.com/BP70qe8X0J8AAAAe/crycat-crying-cat.png",
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9e71v7IfFLLS_1CfY2it3an-6XH1uROjTfU5c88AwRL8aRkqAYDmoFrm9gpbUqwNameo&usqp=CAU",
